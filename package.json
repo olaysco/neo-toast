@@ -1,7 +1,7 @@
 {
   "name": "neo-toast",
   "version": "1.0.0",
-  "description": "Highly customizable, Beautiful Toasters for React. only ~2kbb file size",
+  "description": "Highly customizable, Beautiful Toasters for React. only ~2kb file size",
   "author": "olaysco",
   "license": "MIT",
   "repository": "olaysco/neo-toast",
