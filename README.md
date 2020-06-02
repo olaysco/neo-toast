@@ -13,16 +13,17 @@ npm install --save neo-toast
 ## Usage
 
 ```jsx
-import React, { Component } from 'react'
+import React from 'react'
+import Toast from 'neo-toast'
 
-import MyComponent from 'neo-toast'
-import 'neo-toast/dist/index.css'
+const Toaster = ()=> (
+  <button onClick={()=>Toast({
+            position: 'topLeft',
+            type: 'success',
+            text: 'created successfully'
+        })}>Toast success top left</button>
+)
 
-class Example extends Component {
-  render() {
-    return <MyComponent />
-  }
-}
 ```
 
 ## License
