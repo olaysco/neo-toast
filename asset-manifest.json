@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/neo-toast/static/css/main.29a14cbf.chunk.css",
+    "main.js": "/neo-toast/static/js/main.d1d6ae06.chunk.js",
+    "main.js.map": "/neo-toast/static/js/main.d1d6ae06.chunk.js.map",
+    "runtime-main.js": "/neo-toast/static/js/runtime-main.d01a1036.js",
+    "runtime-main.js.map": "/neo-toast/static/js/runtime-main.d01a1036.js.map",
+    "static/js/2.bb63f1f0.chunk.js": "/neo-toast/static/js/2.bb63f1f0.chunk.js",
+    "static/js/2.bb63f1f0.chunk.js.map": "/neo-toast/static/js/2.bb63f1f0.chunk.js.map",
+    "index.html": "/neo-toast/index.html",
+    "precache-manifest.a9d465b7583686f3c837be581ea4620f.js": "/neo-toast/precache-manifest.a9d465b7583686f3c837be581ea4620f.js",
+    "service-worker.js": "/neo-toast/service-worker.js",
+    "static/css/main.29a14cbf.chunk.css.map": "/neo-toast/static/css/main.29a14cbf.chunk.css.map",
+    "static/js/2.bb63f1f0.chunk.js.LICENSE.txt": "/neo-toast/static/js/2.bb63f1f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d01a1036.js",
+    "static/js/2.bb63f1f0.chunk.js",
+    "static/css/main.29a14cbf.chunk.css",
+    "static/js/main.d1d6ae06.chunk.js"
+  ]
+}
